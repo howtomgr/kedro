@@ -1,0 +1,63 @@
+{
+  "category": "workflow-engines",
+  "created_date": "2025-09-15T22:48:57.917268",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "python3",
+    "python3-pip"
+  ],
+  "description": "kedro is a free and open-source data pipeline framework. Kedro provides framework for creating reproducible data pipelines",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/workflow-engines/kedro",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/workflow-engines/kedro",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.917286",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "kedro",
+  "repository_url": "https://github.com/howtomgr/kedro",
+  "spec_version": "2.0",
+  "subcategory": "workflow-engines",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "workflow-engines",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "kedro Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/workflow-engines/kedro"
+}
